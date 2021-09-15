@@ -1,0 +1,14 @@
+.text {
+    padding-top: 17px;
+    font-size: 1.125ren;
+    line-height: 1.5ren;
+}
+
+.share {
+    padding: 20px;
+}
+
+.share-icon {
+    height: 32px;
+    cursor: pointer;
+}
